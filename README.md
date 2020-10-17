@@ -1,2 +1,2 @@
-# react_redux_project_2
+# Counter_example_React_Redux
 Created with CodeSandbox
